@@ -1,0 +1,3 @@
+# Optional. The app runs with the Python standard library alone; reportlab makes the PDF report a proper
+# document (tables, Arial, rupee sign) and is bundled into the exe by build\build_exe.bat.
+reportlab>=4.0
